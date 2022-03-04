@@ -19,7 +19,7 @@ std_deviation = statistics.stdev(data)
 # print("Standard deviation of popultion:- ",std_deviation)
 
 
-
+# Hahahahahahahahahahahahahahahahahahahahahahahahahahahahaha
 ##  code to find the mean of 100 data points 1000 times 
 #function to get the mean of the given data samples
 # pass the number of data points you want  as counter
@@ -31,7 +31,7 @@ def random_set_of_mean(counter):
         dataset.append(value)
     mean = statistics.mean(dataset)
     return mean
-
+#!@#$%^&*()
 
 
 # Pass the number of time you want the mean of the data points as a parameter in range function in for loop
